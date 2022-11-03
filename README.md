@@ -1,0 +1,6 @@
+- 👋 ola,meu email e @erykabatista20022
+- <*>atualmente estou interessada nos estudos.
+- 🌱 linguagem de programaçao.
+-
+- 
+- 
