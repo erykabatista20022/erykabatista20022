@@ -5,6 +5,7 @@
 - Estou interessada em aprender linguagem de progamaçao.
 - <*>atualmente estou interessada nos estudos.
 - 🌱 linguagem de programaçao.
+- Tenho 16 anos.
+- Sou de Ipiranga-PR
 -
-- 
 - 
