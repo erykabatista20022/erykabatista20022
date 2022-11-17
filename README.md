@@ -1,4 +1,8 @@
-- 👋 ola,meu email e @erykabatista20022
+- # Sobre mim.
+- ## Editando perfil:
+- 👍 Eu sou Eryka Batista
+- Meu email de contato é eryka.batista@escola.pr.gov.br
+- Estou interessada em aprender linguagem de progamaçao.
 - <*>atualmente estou interessada nos estudos.
 - 🌱 linguagem de programaçao.
 -
